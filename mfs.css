@@ -1,0 +1,150 @@
+*   {margin:0%}
+html,body {
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
+    font-weight: 800;
+}
+
+header {background-color: black;
+    padding: 0 30px;
+}
+.caixa img {
+    width: 250px;
+    padding: 0 150px;
+}
+
+.caixa {
+    position: relative;
+    width: 100%;
+}
+
+nav {
+    color: #ffffff;
+    position: absolute;
+    top: 108px;
+    right: 80px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px ;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+
+nav a:hover {
+    color: #f90095;
+}
+.missao {
+    padding: 115px 146px;
+}
+
+.missao h2 {
+    font-size: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.verde {
+    color: #1af38c;
+}
+.missao h3 {
+    text-align: justify;
+}
+
+.missao .infos{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.rosa {
+    color: #f90095;
+}
+
+.infos > * {
+    flex: 1;
+}
+
+.linha {
+    padding: 0 146px;
+}
+
+.linha hr {
+    border: 1px solid #f90095;
+} 
+.pqserdev {
+    padding: 115px 146px;
+}
+
+.pqserdev h2 {
+    font-size: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.pqserdev .infos {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.pqserdev .infos ul{
+    text-align: justify;
+    font-weight: 400;
+}
+
+.infos video {
+    width: 50%;
+}
+
+.oqfazdavida h2 { 
+    font-size: 36px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.oqfazdavida .infos {
+    padding: 115px ;
+}
+
+.oqfazdavida h3 {
+    text-align: justify;
+}
+
+.oqfazdavida p {
+    margin-top: 10px;
+    text-align: justify;
+    font-weight: 400;
+}
+
+.missao p {
+    font-weight: 400;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.oqfazdavida p a {
+    font-weight: 800;
+    color: #1af38c;
+}
+
+.oqfazdavida .infos {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.oqfazdavida .infos video {
+    width: 50%;
+}
+
+.oqfazdavida p a:hover {
+    color: #f90095;
+}
+
+
