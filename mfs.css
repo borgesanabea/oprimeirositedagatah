@@ -147,4 +147,20 @@ nav a:hover {
     color: #f90095;
 }
 
+footer {
+    background-color: black;
+    padding: 35px 70px;
+}
+
+.copy {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px; 
+    line-height: 25px;
+}
+
+.copy.txt {
+    text-align: center;
+    font-weight: 400;
+}
 
