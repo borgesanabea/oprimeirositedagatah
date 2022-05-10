@@ -149,13 +149,12 @@ nav a:hover {
 
 footer {
     background-color: black;
-    padding: 35px 70px;
+    padding: 20px 70px;
 }
 
 .copy {
     color: #ffffff;
     font-size: 13px;
-    margin: 20px; 
     line-height: 25px;
 }
 
